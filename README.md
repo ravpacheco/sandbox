@@ -5,6 +5,6 @@ This repository is only to exemplify some basic concepts.
 
 an efficient search algorithm with O(log(n)) time complexity
 
-### [Deadlock example](https://github.com/ravpacheco/sandbox/tree/master/src/ArrayBinarySearch/ArrayBinarySearch)
+### [Deadlock example](https://github.com/ravpacheco/sandbox/tree/master/src/DeadlockExample/DeadlockExample)
 
 code fragment to exemplify a deadlock
